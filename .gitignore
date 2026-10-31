@@ -1,0 +1,17 @@
+.env
+SampleData/
+output/
+models/
+known_people/
+reid_tracker_project/
+# Common additions for ML/CV projects
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pt
+*.pth
+*.onnx
+reid_tracker_project/
+reid_tracker_project/
+*.log
+.DS_Store
